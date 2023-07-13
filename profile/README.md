@@ -1,70 +1,62 @@
-![Meet Octaiva, your Web3 Assistant](/images/banner.png)
-
 > **Please Note:** As Octavia is a cutting-edge project, much of our code base is closed-source. We will endeavour to open-source elements if and when they are no longer strategically relevant to our success against our competitors.
 
 
-Welcome to the Octavia project! Octavia is an advanced AI assistant designed to fetch information from external sources in a human-like manner. With the ability to understand and respond to complex queries, Octavia is designed to make web research more efficient and accurate.
+#### Public Repositories
+* [Octavia Token Contract](https://github.com/Octavia-Labs/octavia-token)
 
-## Features
 
-Octavia is equipped with several modules that enhance her capabilities:
+![Meet Octaiva, your Web3 Assistant](/images/banner.png)
 
-1. **Receiving via Voice**: Octavia can understand and process voice commands.
-2. **Receiving via Text**: Octavia can understand and process text commands.
-3. **Web Research**: Octavia can perform comprehensive web research to answer complex queries.
-4. **Blockchain Analysis**: Octavia can analyze blockchain data and provide insights.
-5. **Painting**: Octavia can create digital paintings.
-6. **Responding via Voice**: Octavia can respond to queries using voice.
-7. **Responding via Text**: Octavia can respond to queries using text.
+Welcome to the Octavia Labs Github! Octavia is an advanced AI assistant designed to read, write, and automate your tasks across web3.
 
-## How Octavia Works
-
-When Octavia receives a message from the user, she is given a list of options to respond to that message. If the message is simple, Octavia will respond without doing any further research. If the message is complex, Octavia will perform a comprehensive web research to provide an accurate response.
-
-Octavia's research process is entirely controlled by AI, ensuring a comprehensive and accurate understanding of the topic. Only once Octavia is satisfied with the research, will she go back to the user with the answer.
-
-## Octavia's Memory
-
-Octavia has three levels of memory:
-
-1. **Local Memory**: This is the persistent per-user memory that stores information between users sessions for a single user.
-2. **Global Memory**: If Octavia discovers something new in the process of her research, or learns some interesting information that she wishes to store, it goes in the Global Memory.
-3. **Fixed Memory**: We use Fixed Memory to maintain and preserve Octavia’s personality, core knowledge about the Octavia project, and any adjustments we need to make to the opinions and thoughts of Octavia.
+## About Octavia
+### Features
+- Octavia is a superhuman AI assistant that specializes in cryptocurrency and blockchain technology.
+- Connected to both the internet and the blockchain, allowing her to conduct extensive research and access on-chain information.
+- She has a memory that learns about your preferences over time, providing increasingly personalized assistance.
+- Octavia is designed to enhance your productivity and simplify your work.
+- She can access the internet and blockchain to conduct research, get blockchain/token/transaction information, visit websites, and use search engines.
+- Octavia has an in-built calculator for accurate calculations.
+- Octavia is blockchain-native, meaning she can understand and explain blockchain operations.
 
 ## Getting Started
 
-To get started with Octavia, you can send a message to her via voice or text. Octavia will then process your message and respond accordingly. If your query is complex, Octavia will perform comprehensive web research to provide an accurate response.
+To start interacting with Octavia, you can reach out to her through various platforms. Here's how:
 
-We hope you enjoy using Octavia anywhere she's avaliable, whether that's [web](https://octavia.one), [telegram](https://t.me/octaviaone) or [Discord](https://discord.gg/octavia)! If you have any questions or feedback, feel free to open an issue or submit a pull request.
+- **Discord**: Join our [Discord server](https://discord.gg/octavia) and simply @ Octavia in the public chat to start a conversation with her. She's always ready to assist you with your queries.
 
+- **Telegram**: In our [Telegram group](https://t.me/octaviaone), you can initiate a conversation with Octavia by starting your message with the word 'Octavia'. She will respond to your queries in no time.
+
+- **Website**: We are excited to announce that our beta webapp will be rolling out progressively. You can visit our [website](https://octavia.one) to stay updated and get early access.
+
+Remember, Octavia is designed to understand and respond to complex queries, making your web research more efficient and accurate. If you have any questions or feedback, feel free to open an issue or submit a pull request. Enjoy using Octavia!
 
 ## Links 
-
-### General 
+#### General 
 
 - 🌐 [Website](https://octavia.one)  
 - 📚 [Docs](https://docs.octavia.one) 
 
-### Whitepaper & Project Information
-
+#### Whitepaper
 - 📄 [Lightpaper](https://octavia.one/lightpaper.pdf)  
 - 📊 [Tokenomics](https://octavia.one/tokenomics.pdf)
-- 📝 [Medium](https://medium.com/@OctaviaToken)
 
-### Socials
+#### Socials
 
 - 📣 [Telegram](https://t.me/octaviaone)  
 - 🎮 [Discord](https://discord.gg/octavia)  
 - 🐦 [Twitter](https://twitter.com/octaviatoken)
 - ▶️ [Youtube](https://www.youtube.com/@octaviaone)
-
-### Community
 - 🌍 [Discord Intl Community](https://discord.gg/octavia)
 - 🎖️ [Crew3 / Zealy](https://zealy.io/c/octavia/questboard)
 
-
-### Technical 
+#### Technical 
 - 💻 [Github](https://github.com/Octavia-Labs) <- You are here.
+- 📝 [Medium](https://medium.com/@OctaviaToken)
+
+## Thanks for visiting
+We hope you enjoy using Octavia anywhere she's avaliable, whether that's [web](https://octavia.one), [telegram](https://t.me/octaviaone) or [Discord](https://discord.gg/octavia)! If you have any questions or feedback, feel free to open an issue or submit a pull request.
+
 
 
 ```
