@@ -63,7 +63,7 @@ We hope you enjoy using Octavia anywhere she's avaliable, whether that's [web](h
 
 
 ### Technical 
-- 💻 [Github](https://github.com/OctaviaOne) <- You are here.
+- 💻 [Github](https://github.com/Octavia-Labs) <- You are here.
 
 
 ```
