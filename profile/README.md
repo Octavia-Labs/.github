@@ -1,6 +1,6 @@
 ![Meet Octaiva, your Web3 Assistant](/images/banner.png)
 
-##### Welcome to the Octavia Labs Github! Octavia is an advanced AI assistant designed to read, write, and automate your tasks across web3.
+#### Welcome to the Octavia Labs Github! Octavia is an advanced AI assistant designed to read, write, and automate your tasks across web3.
 
 > **Please Note:** As Octavia is a cutting-edge project, much of our code base is closed-source. We will endeavour to open-source elements if and when they are no longer strategically relevant to our success against our competitors.
 
