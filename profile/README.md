@@ -4,6 +4,8 @@
 
 Welcome to the Octavia Labs Github! Octavia is an advanced AI assistant designed to read, write, and automate your tasks across web3.
 
+--- 
+
 ## About Octavia
 ### Features
 - Octavia is a superhuman AI assistant that specializes in cryptocurrency and blockchain technology.
@@ -24,6 +26,7 @@ To start interacting with Octavia, you can reach out to her through various plat
 
 - **Web App**: Our beta web app will be rolling out progressively. You can visit our [website](https://octavia.one) to stay updated and get early access.
 
+--- 
 
 ## About Us 
 ![Octavia Labs](/images/labs.png)
