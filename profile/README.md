@@ -23,25 +23,21 @@ To start interacting with Octavia, you can reach out to her through various plat
 
 - **Web App**: Our beta web app will be rolling out progressively. You can visit our [website](https://octavia.one) to stay updated and get early access.
 
-## Links 
-<div align="center">
+| General | | Whitepaper | |
+| --- | --- | --- | --- |
+| 🌐 | [Website](https://octavia.one) | 📄 | [Lightpaper](https://octavia.one/lightpaper.pdf) |
+| 📚 | [Docs](https://docs.octavia.one) | 📊 | [Tokenomics](https://octavia.one/tokenomics.pdf) |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
-## Links 
-| General | Whitepaper |
-| --- | --- |
-| 🌐 [Website](https://octavia.one) | 📄 [Lightpaper](https://octavia.one/lightpaper.pdf) |
-| 📚 [Docs](https://docs.octavia.one) | 📊 [Tokenomics](https://octavia.one/tokenomics.pdf) |
+| Socials | | Technical | |
+| --- | --- | --- | --- |
+| 📣 | [Telegram](https://t.me/octaviaone) | 💻 | [Github](https://github.com/Octavia-Labs) |
+| 🎮 | [Discord](https://discord.gg/octavia) | 📝 | [Medium](https://medium.com/@OctaviaToken) |
+| 🐦 | [Twitter](https://twitter.com/octaviatoken) | 💎 | [Octavia Token Contract](https://github.com/Octavia-Labs/octavia-token) |
+| ▶️ | [Youtube](https://www.youtube.com/@octaviaone) | &nbsp; | &nbsp; |
+| 🌍 | [Discord Intl Community](https://discord.gg/octavia) | &nbsp; | &nbsp; |
+| 🎖️ | [Crew3 / Zealy](https://zealy.io/c/octavia/questboard) | &nbsp; | &nbsp; |
 
-| Socials | Technical |
-| --- | --- |
-| 📣 [Telegram](https://t.me/octaviaone) | 💻 [Github](https://github.com/Octavia-Labs) |
-| 🎮 [Discord](https://discord.gg/octavia) | 📝 [Medium](https://medium.com/@OctaviaToken) |
-| 🐦 [Twitter](https://twitter.com/octaviatoken) | 💎 [Octavia Token Contract](https://github.com/Octavia-Labs/octavia-token) |
-| ▶️ [Youtube](https://www.youtube.com/@octaviaone) | |
-| 🌍 [Discord Intl Community](https://discord.gg/octavia) | |
-| 🎖️ [Crew3 / Zealy](https://zealy.io/c/octavia/questboard) | |
-
-</div>
 
 ## Thanks for visiting
 We hope you enjoy using Octavia anywhere she's avaliable, whether that's [web](https://octavia.one), [telegram](https://t.me/octaviaone) or [Discord](https://discord.gg/octavia)! If you have any questions or feedback, feel free to open an issue or submit a pull request.
