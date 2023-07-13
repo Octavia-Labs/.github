@@ -14,7 +14,7 @@ Welcome to the Octavia Labs Github! Octavia is an advanced AI assistant designed
 - Octavia has an in-built calculator for accurate calculations.
 - Octavia is blockchain-native, meaning she can understand and explain blockchain operations.
 
-## Getting Started
+### Getting Started
 
 To start interacting with Octavia, you can reach out to her through various platforms. Here's how:
 
@@ -26,14 +26,14 @@ To start interacting with Octavia, you can reach out to her through various plat
 
 
 ## Links 
-#### General 
+### General 
 
 - 🌐 [Website](https://octavia.one)  
 - 📚 [Docs](https://docs.octavia.one) 
 - 📄 [Lightpaper](https://octavia.one/lightpaper.pdf)  
 - 📊 [Tokenomics](https://octavia.one/tokenomics.pdf)
 
-#### Socials
+### Socials
 - 📣 [Telegram](https://t.me/octaviaone)  
 - 🎮 [Discord](https://discord.gg/octavia)  
 - 🐦 [Twitter](https://twitter.com/octaviatoken)
@@ -41,7 +41,7 @@ To start interacting with Octavia, you can reach out to her through various plat
 - 🌍 [Discord Intl Community](https://discord.gg/octavia)
 - 🎖️ [Crew3 / Zealy](https://zealy.io/c/octavia/questboard)
 
-#### Technical 
+### Technical 
 - 💻 [Github](https://github.com/Octavia-Labs) <- You are here.
 - 📝 [Medium](https://medium.com/@OctaviaToken)
 - 💎 [Octavia Token Contract](https://github.com/Octavia-Labs/octavia-token)
