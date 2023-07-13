@@ -1,4 +1,5 @@
-# Octavia
+![Meet Octaiva, your Web3 Assistant](/images/banner.png)
+
 > **Please Note:** As Octavia is a cutting-edge project, much of our code base is closed-source. We will endeavour to open-source elements if and when they are no longer strategically relevant to our success against our competitors.
 
 
