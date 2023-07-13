@@ -58,7 +58,7 @@ We're the team behind Octavia, headed by Luke Martinez our founder. We're a dive
 
 
 ### License 
-Any repositories without an included license, and not entirely subject to other licenses are licensed under the Business Source License. [Full Details](/LICENSE.md).
+Any repositories without an included license, and not entirely subject to other licenses are licensed under the Business Source License. [Full Details](/profile/LICENSE.md).
 
 ### Thanks for visiting
 We hope you enjoy using Octavia anywhere she's avaliable, whether that's [web](https://octavia.one), [telegram](https://t.me/octaviaone) or [Discord](https://discord.gg/octavia)! If you have any questions or feedback, feel free to open an issue or submit a pull request.
