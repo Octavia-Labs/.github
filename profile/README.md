@@ -25,15 +25,21 @@ To start interacting with Octavia, you can reach out to her through various plat
 - **Web App**: Our beta web app will be rolling out progressively. You can visit our [website](https://octavia.one) to stay updated and get early access.
 
 
-## Links 
-### General 
+## About Us 
+![Octavia Labs](/images/labs.png)
+We're the team behind Octavia, headed by Luke Martinez the founder of Octavia Labs, we're building the next generation of AI assistants. A diverse 
 
+**Want to work with us?** [View open positions](https://docs.octavia.one/docs/project/careers) 
+
+
+### Links 
+#### General
 - 🌐 [Website](https://octavia.one)  
 - 📚 [Docs](https://docs.octavia.one) 
 - 📄 [Lightpaper](https://octavia.one/lightpaper.pdf)  
 - 📊 [Tokenomics](https://octavia.one/tokenomics.pdf)
 
-### Socials
+#### Socials
 - 📣 [Telegram](https://t.me/octaviaone)  
 - 🎮 [Discord](https://discord.gg/octavia)  
 - 🐦 [Twitter](https://twitter.com/octaviatoken)
@@ -41,7 +47,7 @@ To start interacting with Octavia, you can reach out to her through various plat
 - 🌍 [Discord Intl Community](https://discord.gg/octavia)
 - 🎖️ [Crew3 / Zealy](https://zealy.io/c/octavia/questboard)
 
-### Technical 
+#### Technical 
 - 💻 [Github](https://github.com/Octavia-Labs) <- You are here.
 - 📝 [Medium](https://medium.com/@OctaviaToken)
 - 💎 [Octavia Token Contract](https://github.com/Octavia-Labs/octavia-token)
