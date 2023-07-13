@@ -24,6 +24,9 @@ To start interacting with Octavia, you can reach out to her through various plat
 - **Web App**: Our beta web app will be rolling out progressively. You can visit our [website](https://octavia.one) to stay updated and get early access.
 
 ## Links 
+<div align="center">
+
+## Links 
 | General | Whitepaper |
 | --- | --- |
 | 🌐 [Website](https://octavia.one) | 📄 [Lightpaper](https://octavia.one/lightpaper.pdf) |
@@ -37,6 +40,8 @@ To start interacting with Octavia, you can reach out to her through various plat
 | ▶️ [Youtube](https://www.youtube.com/@octaviaone) | |
 | 🌍 [Discord Intl Community](https://discord.gg/octavia) | |
 | 🎖️ [Crew3 / Zealy](https://zealy.io/c/octavia/questboard) | |
+
+</div>
 
 ## Thanks for visiting
 We hope you enjoy using Octavia anywhere she's avaliable, whether that's [web](https://octavia.one), [telegram](https://t.me/octaviaone) or [Discord](https://discord.gg/octavia)! If you have any questions or feedback, feel free to open an issue or submit a pull request.
