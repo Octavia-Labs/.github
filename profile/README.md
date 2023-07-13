@@ -12,7 +12,6 @@ Welcome to the Octavia Labs Github! Octavia is an advanced AI assistant designed
 - Octavia is designed to enhance your productivity and simplify your work.
 - She can access the internet and blockchain to conduct research, get blockchain/token/transaction information, visit websites, and use search engines.
 - Octavia has an in-built calculator for accurate calculations.
-- Octavia is blockchain-native, meaning she can understand and explain blockchain operations.
 
 ## Getting Started
 
@@ -22,33 +21,22 @@ To start interacting with Octavia, you can reach out to her through various plat
 
 - **Telegram**: In our [Telegram group](https://t.me/octaviaone), you can initiate a conversation with Octavia by starting your message with the word 'Octavia'. She will respond to your queries in no time.
 
-- **Website**: We are excited to announce that our beta webapp will be rolling out progressively. You can visit our [website](https://octavia.one) to stay updated and get early access.
-
-Remember, Octavia is designed to understand and respond to complex queries, making your web research more efficient and accurate. If you have any questions or feedback, feel free to open an issue or submit a pull request. Enjoy using Octavia!
+- **Web App**: Our beta web app will be rolling out progressively. You can visit our [website](https://octavia.one) to stay updated and get early access.
 
 ## Links 
-#### General 
+| General | Whitepaper |
+| --- | --- |
+| 🌐 [Website](https://octavia.one) | 📄 [Lightpaper](https://octavia.one/lightpaper.pdf) |
+| 📚 [Docs](https://docs.octavia.one) | 📊 [Tokenomics](https://octavia.one/tokenomics.pdf) |
 
-- 🌐 [Website](https://octavia.one)  
-- 📚 [Docs](https://docs.octavia.one) 
-
-#### Whitepaper
-- 📄 [Lightpaper](https://octavia.one/lightpaper.pdf)  
-- 📊 [Tokenomics](https://octavia.one/tokenomics.pdf)
-
-#### Socials
-
-- 📣 [Telegram](https://t.me/octaviaone)  
-- 🎮 [Discord](https://discord.gg/octavia)  
-- 🐦 [Twitter](https://twitter.com/octaviatoken)
-- ▶️ [Youtube](https://www.youtube.com/@octaviaone)
-- 🌍 [Discord Intl Community](https://discord.gg/octavia)
-- 🎖️ [Crew3 / Zealy](https://zealy.io/c/octavia/questboard)
-
-#### Technical 
-- 💻 [Github](https://github.com/Octavia-Labs) <- You are here.
-- 📝 [Medium](https://medium.com/@OctaviaToken)
-- 💎 [Octavia Token Contract](https://github.com/Octavia-Labs/octavia-token)
+| Socials | Technical |
+| --- | --- |
+| 📣 [Telegram](https://t.me/octaviaone) | 💻 [Github](https://github.com/Octavia-Labs) |
+| 🎮 [Discord](https://discord.gg/octavia) | 📝 [Medium](https://medium.com/@OctaviaToken) |
+| 🐦 [Twitter](https://twitter.com/octaviatoken) | 💎 [Octavia Token Contract](https://github.com/Octavia-Labs/octavia-token) |
+| ▶️ [Youtube](https://www.youtube.com/@octaviaone) | |
+| 🌍 [Discord Intl Community](https://discord.gg/octavia) | |
+| 🎖️ [Crew3 / Zealy](https://zealy.io/c/octavia/questboard) | |
 
 ## Thanks for visiting
 We hope you enjoy using Octavia anywhere she's avaliable, whether that's [web](https://octavia.one), [telegram](https://t.me/octaviaone) or [Discord](https://discord.gg/octavia)! If you have any questions or feedback, feel free to open an issue or submit a pull request.
