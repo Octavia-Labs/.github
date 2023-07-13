@@ -1,10 +1,5 @@
 > **Please Note:** As Octavia is a cutting-edge project, much of our code base is closed-source. We will endeavour to open-source elements if and when they are no longer strategically relevant to our success against our competitors.
 
-
-#### Public Repositories
-* [Octavia Token Contract](https://github.com/Octavia-Labs/octavia-token)
-
-
 ![Meet Octaiva, your Web3 Assistant](/images/banner.png)
 
 Welcome to the Octavia Labs Github! Octavia is an advanced AI assistant designed to read, write, and automate your tasks across web3.
@@ -53,6 +48,7 @@ Remember, Octavia is designed to understand and respond to complex queries, maki
 #### Technical 
 - 💻 [Github](https://github.com/Octavia-Labs) <- You are here.
 - 📝 [Medium](https://medium.com/@OctaviaToken)
+- 💎 [Octavia Token Contract](https://github.com/Octavia-Labs/octavia-token)
 
 ## Thanks for visiting
 We hope you enjoy using Octavia anywhere she's avaliable, whether that's [web](https://octavia.one), [telegram](https://t.me/octaviaone) or [Discord](https://discord.gg/octavia)! If you have any questions or feedback, feel free to open an issue or submit a pull request.
