@@ -22,7 +22,7 @@ You can talk to Octaiva on various platforms. Here's how:
 
 - **Discord**: Join our [Discord server](https://discord.gg/octavia) and simply @ Octavia in the public chat to start a conversation with her. She's always ready to assist you with your queries.
 
-- **Telegram**: In our [Telegram group](https://t.me/octaviaone), you can initiate a conversation with Octavia by starting your message with the word 'Octavia'. She will respond to your queries in no time.
+- **Telegram**: In our [Telegram group](https://t.me/octaviaannouncements), you can initiate a conversation with Octavia by joining the discussion group attached and starting your message with the word 'Octavia'. She will respond to your queries in no time. Or directly message Octavia -[@OctaviaAIBot](https://t.me/OctaviaAIBot)
 
 - **Web App**: Our beta web app will be rolling out progressively. You can visit our [website](https://octavia.one) to stay updated and get early access.
 
@@ -41,7 +41,7 @@ We're the team behind Octavia, headed by Luke Martinez our founder. We're a dive
 - 📊 [Tokenomics](https://octavia.one/tokenomics.pdf)
 
 #### Socials
-- 📣 [Telegram](https://t.me/octaviaone)  
+- 📣 [Telegram](https://t.me/OctaviaAnnouncements)  
 - 🎮 [Discord](https://discord.gg/octavia)  
 - 🐦 [Twitter](https://twitter.com/octaviatoken)
 - ▶️ [Youtube](https://www.youtube.com/@octaviaone)
